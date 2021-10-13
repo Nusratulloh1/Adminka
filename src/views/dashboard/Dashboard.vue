@@ -782,4 +782,7 @@ ul li a{
   padding: 0px 0px !important;
 }
 }
+.v-card--material-chart .v-card--material__heading .ct-series-a .ct-bar, .v-card--material-chart .v-card--material__heading .ct-series-a .ct-line, .v-card--material-chart .v-card--material__heading .ct-series-a .ct-point, .v-card--material-chart .v-card--material__heading .ct-series-a .ct-slice-donut {
+    stroke: #5d3cd0 !important;
+}
 </style>
